@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://support.intrinsyc.com/attachments/download/10090/624A_APQ8053_Android_v1.4-ITC-JFlash.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
