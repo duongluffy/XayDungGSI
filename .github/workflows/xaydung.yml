@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://support.intrinsyc.com/attachments/10090
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
